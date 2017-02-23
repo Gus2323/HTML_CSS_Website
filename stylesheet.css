@@ -1,0 +1,24 @@
+ body {
+  
+          background-color: #0DFFB0;
+        margin: 1px;
+        padding: 20px;
+      }
+       .page {
+        text-align: center;
+      }
+     
+      .content {
+          background-color: #19E6E8;
+           border-radius: 10px ;
+        border: solid white;
+        margin: 0 auto;
+        width: 720px;
+        padding-right: 50px;
+        padding-left: 50px;
+      }
+      .nav {
+          margin: 0 auto;
+          font-family:Jockey One;
+             font-size: 20px;
+      }
